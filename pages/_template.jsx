@@ -3,6 +3,8 @@ import { Container } from 'react-responsive-grid'
 import { Link } from 'react-router'
 import { prefixLink } from 'gatsby-helpers'
 import Headroom from 'react-headroom'
+import Bootstrap from 'bootstrap/dist/css/bootstrap.min.css';
+
 import '../css/markdown-styles'
 
 import { rhythm } from '../utils/typography'
@@ -38,7 +40,8 @@ module.exports = React.createClass({
                 textDecoration: 'none',
               }}
             >
-              Your Brand!
+              bezdek.style
+
             </Link>
           </Container>
         </Headroom>

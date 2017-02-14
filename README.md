@@ -1,2 +1,2 @@
 # sandbox
-A place to play
+This is a theme created for bezdek.studio crafted from Gatsby.
