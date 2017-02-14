@@ -25,12 +25,6 @@ export default class Index extends React.Component {
         <Link to={prefixLink('/markdown/')}>Markdown</Link>
         <h5>Bootstrap tests</h5>
         <button>Hello Btn here</button>
-          <div id="fullpage">
-            <div className="section">Some section</div>
-            <div className="section">Some section</div>
-            <div className="section">Some section</div>
-            <div className="section">Some section</div>
-        </div>
       </div>
     )
   }
